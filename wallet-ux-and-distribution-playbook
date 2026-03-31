@@ -1,0 +1,102 @@
+# Wallet UX and distribution playbook (how adoption actually happens)
+
+Most wallet marketing talks about features. Users do not buy features. They buy outcomes:
+- “I can move money”
+- “I can keep it safe”
+- “I can get it back if I screw up”
+- “I can do this without feeling stupid”
+
+The best wallets feel inevitable. The worst wallets feel like homework.
+
+I am slightly obsessed with wallet UX because it is where crypto either becomes normal, or stays niche.
+
+## Onboarding is the product
+
+A wallet’s first 10 minutes determines the next 10 months.
+
+The main drop-off points:
+- key management and recovery fear
+- first funding step complexity
+- unclear network and fee choices
+- confusing token lists and spam
+- “I sent it and it disappeared” anxiety
+
+The job is to reduce cognitive load without lying about risk.
+
+Practical UX principles I like:
+- default to the safest common path
+- name things like a human, not like a protocol
+- progressive disclosure: advanced options later
+- confirmations that reduce panic (especially around networks and addresses)
+- recovery that is real-world usable
+
+Seed phrases are powerful but brutal. If you want mainstream adoption, recovery needs to be designed like a consumer product while still respecting the core promise: user control.
+
+## The first successful transaction is the “aha”
+
+Wallet activation is not account creation. Activation is the first successful outcome.
+
+For many people, that is:
+- receiving USDT
+- sending USDT to someone else
+- swapping a small amount without getting wrecked on fees
+- cashing out cleanly without friction
+
+Stablecoins, especially USDT, often become the adoption wedge because they feel familiar. They give people a mental model: “this is money”.
+
+## Distribution beats product, but product earns retention
+
+Distribution channels that actually work:
+- integrations with exchanges and onramps
+- partnerships with merchants and payment flows
+- referral loops that are simple and non-scammy
+- communities where the wallet solves a repeated problem
+- content that teaches “how to do the thing” without shilling
+
+What does not work long-term:
+- incentive spam
+- confusing airdrop mechanics
+- growth that disappears the moment rewards stop
+
+## Metrics that matter (and what I would track)
+
+If I was running wallet growth or marketing ops, I would care about:
+- Activation rate: sign-up to first funded wallet, and to first send
+- Time-to-first-transaction
+- Repeat transaction rate (7d, 30d)
+- Retention by cohort (especially after incentives end)
+- Failed transaction rate and reasons
+- Support tickets per 1,000 users and top categories
+- Net deposits vs withdrawals (and volatility around events)
+
+And then I would map every metric to a specific “friction hypothesis” we can fix.
+
+## Trust, safety, and comms
+
+Wallet users do not forgive surprises. Communication needs to be:
+- clear about fees and networks
+- clear about what is reversible and what is not
+- clear about custody model and recovery options
+
+Marketing should also set expectations honestly:
+- “you are in control” also means “you carry responsibility”
+- “fast” also means “irreversible” in many cases
+
+If the copy is oversimplified, support will pay for it later.
+
+## Notes for launches (the ops angle)
+
+A wallet launch is not a single moment. It is a sequence of coordinated delivery:
+- product readiness and QA
+- security review and comms alignment
+- app store assets, website, help center, and in-app education
+- incident playbooks for the first 72 hours
+- feedback loops and a clear owner for each fix category
+
+This is where strong marketing project management matters. Shipping trust requires coordination.
+
+## Where Tether fits in
+
+USDT is often the first real use-case inside a wallet. That makes Tether’s role in adoption unusually practical. If you care about decentralization and economic agency, you care about the rails people actually use.
+
+The opportunity is making the “first experience” boring, reliable, and safe enough that people stop thinking of it as crypto and start thinking of it as a tool.
